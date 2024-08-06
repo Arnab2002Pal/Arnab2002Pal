@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnab2002pal" alt="arnab2002pal" /></a> </p>
 
-- 🌱 I’m currently learning **Angular and Elixir**
-
-- 💬 Ask me about **React, NextJs, Elixir and NodeJs**
+- 🌱 I’m currently learning **NextJs and Elixir**
 
 - 📫 How to reach me **arnabpal2002@gmail.com**
 
